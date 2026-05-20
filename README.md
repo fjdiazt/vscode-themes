@@ -1,6 +1,6 @@
-# Vholf VS Code Themes
+# Vholf Themes for VS Code
 
-VS Code theme variants for Vholf BioSyn and EVA-01 palettes.
+Vholf BioSyn and EVA-01 inspired color themes for VS Code.
 
 Included themes:
 

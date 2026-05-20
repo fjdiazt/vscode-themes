@@ -1,14 +1,33 @@
 {
-  "name": "vscode-theme-lab",
-  "displayName": "Vholf VS Code Themes",
-  "description": "VS Code theme variants for Vholf BioSyn and EVA-01 palettes.",
+  "name": "vholf-themes",
+  "displayName": "Vholf Themes for VS Code",
+  "description": "Vholf BioSyn and EVA-01 inspired color themes for VS Code.",
   "version": "0.1.0",
-  "publisher": "local",
+  "publisher": "vholf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fjdiazt/vscode-themes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fjdiazt/vscode-themes/issues"
+  },
+  "homepage": "https://github.com/fjdiazt/vscode-themes#readme",
   "engines": {
     "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "themes",
+    "vholf",
+    "biosyn",
+    "eva-01",
+    "evangelion",
+    "sci-fi",
+    "terminal"
   ],
   "contributes": {
     "themes": [
