@@ -1,0 +1,37 @@
+{
+  "name": "vscode-theme-lab",
+  "displayName": "Vholf VS Code Themes",
+  "description": "VS Code theme variants for Vholf BioSyn and EVA-01 palettes.",
+  "version": "0.1.0",
+  "publisher": "local",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vholf - BioSyn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/biosyn-color-theme.json"
+      },
+      {
+        "label": "Vholf - BioSyn Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/biosyn-soft-color-theme.json"
+      },
+      {
+        "label": "Vholf - BioSyn Soft Inverted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/biosyn-soft-inverted-color-theme.json"
+      },
+      {
+        "label": "Vholf - eva-01",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eva-01-color-theme.json"
+      }
+    ]
+  }
+}
